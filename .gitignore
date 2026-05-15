@@ -1,0 +1,18 @@
+# Ignore R temporary files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Ignore large datasets
+*.csv
+*.rds
+*.RDS
+
+# Ignore output folders
+Output/
+data/
+
+# Ignore zip files
+*.zipbranded_food.csv draftdf.csv food.csv food_attribute.csv food_attribute_type.csv food_nutrient.csv food_update_log_entry.csv measure_unit.csv Merged.csv microbe.csv nutrient.csv
+Download API Field Descriptions.xlsx
+*.RData
